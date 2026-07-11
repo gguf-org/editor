@@ -26,4 +26,4 @@ run/test the app in developer mode
 npm run tauri:dev
 ```
 
-*if you are not prepared to build it yourself (thought it's recommended), find the OS specific installer from [releases](https://github.com/mochiyaki/editor/releases)
+*if you are not prepared to build it yourself (though it's recommended), find the OS specific installer from [releases](https://github.com/mochiyaki/editor/releases)
