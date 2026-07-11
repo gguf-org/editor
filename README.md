@@ -3,7 +3,7 @@ model editor plus tensor level quantization engine - all in one
 
 clone this repo
 ```
-git clone https://github.com/mochiyaki/editor
+git clone https://github.com/gguf-org/editor
 ```
 
 enter the directory
